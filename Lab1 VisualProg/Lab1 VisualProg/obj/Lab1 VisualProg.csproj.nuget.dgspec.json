@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Максим\\source\\repos\\Lab1 VisualProg\\Lab1 VisualProg\\Lab1 VisualProg.csproj": {}
+    "C:\\Users\\Максим\\Visual_Programm\\Visual_Programm\\Lab1 VisualProg\\Lab1 VisualProg\\Lab1 VisualProg.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Максим\\source\\repos\\Lab1 VisualProg\\Lab1 VisualProg\\Lab1 VisualProg.csproj": {
+    "C:\\Users\\Максим\\Visual_Programm\\Visual_Programm\\Lab1 VisualProg\\Lab1 VisualProg\\Lab1 VisualProg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Максим\\source\\repos\\Lab1 VisualProg\\Lab1 VisualProg\\Lab1 VisualProg.csproj",
+        "projectUniqueName": "C:\\Users\\Максим\\Visual_Programm\\Visual_Programm\\Lab1 VisualProg\\Lab1 VisualProg\\Lab1 VisualProg.csproj",
         "projectName": "Lab1 VisualProg",
-        "projectPath": "D:\\Users\\Максим\\source\\repos\\Lab1 VisualProg\\Lab1 VisualProg\\Lab1 VisualProg.csproj",
+        "projectPath": "C:\\Users\\Максим\\Visual_Programm\\Visual_Programm\\Lab1 VisualProg\\Lab1 VisualProg\\Lab1 VisualProg.csproj",
         "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Максим\\source\\repos\\Lab1 VisualProg\\Lab1 VisualProg\\obj\\",
+        "outputPath": "C:\\Users\\Максим\\Visual_Programm\\Visual_Programm\\Lab1 VisualProg\\Lab1 VisualProg\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
