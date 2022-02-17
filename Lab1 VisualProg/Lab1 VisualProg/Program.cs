@@ -11,7 +11,7 @@
         int KolLud = customers.Length;
         int OstLudOnKass;
         bool MasTrue = true;
-        while(MasTrue)
+        while (MasTrue)
         {
             for (int i = 0; i < n; i++)
             {
@@ -23,12 +23,12 @@
                         KolLud--;
                     }
                 }
-                
+
             }
 
             for (int i = 0; i < n; i++)
             {
-                if (Kass[i] >0)
+                if (Kass[i] > 0)
                 {
                     Kass[i]--;
                 }
@@ -49,7 +49,7 @@
 
 
         }
-        
+
         return ObshVrem;
     }
 }
@@ -60,7 +60,7 @@ class Program
     static void Main(string[] args)
     {
         long TimeKass;
-        TimeKass = HW1.QueueTime(new int[] { 5, 3, 4}, 1);
+        TimeKass = HW1.QueueTime(new int[] { 5, 3, 4 }, 1);
         Console.WriteLine("Результат 1 теста: " + TimeKass);
         TimeKass = HW1.QueueTime(new int[] { 10, 2, 3, 3 }, 2);
         Console.WriteLine("Результат 2 теста: " + TimeKass);
@@ -69,5 +69,6 @@ class Program
         Console.Read();
     }
 }
+
 
 
